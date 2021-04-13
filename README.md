@@ -1,4 +1,4 @@
-# Project-Hymnal
+# Project-Hymnal - Recommendation System
 
 Goal: To create a search recommendation system for the mobile application Project Hymnal
 
